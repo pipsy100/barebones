@@ -2,7 +2,7 @@
   "name": "barebonesreact",
   "version": "1.0.0",
   "description": "barebonesreact",
-  "homepage": "https://pipsy100.github.io.barebones",
+  "homepage": "https://pipsy100.github.io/barebones",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
